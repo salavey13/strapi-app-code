@@ -13,8 +13,8 @@ This project is a full-stack application using Strapi as the backend CMS and Nex
 1. Clone the repository:
 
    ```
-   git clone github.com/salavey13/strapi-nextjs
-   cd strapi-nextjs
+   git clone github.com/salavey13/strapi-app-code
+   cd strapi-app-code
    ```
 
 2. Set up Strapi:

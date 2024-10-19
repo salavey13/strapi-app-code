@@ -12,8 +12,8 @@
 
 1. Клонируйте репозиторий:
    ```
-   git clone github.com/salavey13/strapi-nextjs
-   cd strapi-nextjs
+   git clone github.com/salavey13/strapi-app-code
+   cd strapi-app-code
    ```
 
 2. Настройте Strapi:
