@@ -1,0 +1,23 @@
+{
+  // ... existing content ...
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    // ... existing attributes ...
+  },
+  "config": {
+    "auth": {
+      "public": {
+        "find": true,
+        "findOne": true
+      },
+      "authenticated": {
+        "create": true,
+        "update": true,
+        "delete": true
+      }
+    }
+  }
+}
